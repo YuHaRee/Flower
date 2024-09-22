@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flower">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/프로젝트 개발.zip!/" />
+      <root url="jar://$PROJECT_DIR$/화면구현.zip!/" />
+      <root url="jar://$PROJECT_DIR$/이미지.zip!/" />
+      <root url="jar://$PROJECT_DIR$/초기개발.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
